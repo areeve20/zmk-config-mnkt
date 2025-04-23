@@ -1,0 +1,2 @@
+config SHIELD_MNKT
+    def_bool $(shield_list_contains, mnkt)
