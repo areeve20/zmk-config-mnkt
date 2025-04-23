@@ -11,7 +11,7 @@
                 &kp KP_ESC      &kp KP_N1       &kp KP_N2       &kp KP_N3       &kp KP_N4       &kp KP_N5
                 &kp KP_TAB      &kp KP_q       &kp KP_w       &kp KP_e       &kp KP_r       &kp KP_t
                 &kp KP_CAPS      &kp KP_a       &kp KP_s       &kp KP_d       &kp KP_f       &kp KP_g
-                &kp KP_L.SHIFT      &kp KP_z       &kp KP_x       &kp KP_c       &kp KP_v       &kp KP_b
+                &kp KC_LSHIFT      &kp KP_z       &kp KP_x       &kp KP_c       &kp KP_v       &kp KP_b
                 &kp KP_LCTRL      &kp KP_LWIN       &kp KP_LALT       &kp KP_SPACE       &mo 1 
             >;
         };
