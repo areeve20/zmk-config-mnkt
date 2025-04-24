@@ -6,11 +6,21 @@
     keymap {   
         default_layer {
             bindings = <
-                &kp N1     &kp N1     &kp N1     &kp N1     &kp N1     &kp N1
-                &kp N1     &kp N1     &kp N1     &kp N1     &kp N1     &kp N1
-                &kp N1     &kp N1     &kp N1     &kp N1     &kp N1     &kp N1
-                &kp N1     &kp N1     &kp N1     &kp N1     &kp N1     &kp N1
-                &kp N1     &kp N1     &kp N1     &kp N1     &kp N1     &kp N1
+                &kp ESC    &kp N1    &kp N2    &kp N3    &kp N4 &kp N5
+                &kp TAB    &kp q     &kp w     &kp e     &kp r  &kp t
+                &kp CAPS   &kp a     &kp s     &kp d     &kp f  &kp g
+                &kp LSHIFT &kp z     &kp x     &kp c     &kp v  &kp b
+                &kp LCTRL  &kp LGUI  &kp LALT  &kp SPACE &mo 1
+            >;
+        };
+    
+        bt_layer {
+            bindings = <
+                &none         &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &none     &bootloader
+                &none         &none        &none        &none        &none     &bt BT_CLR
+                &none         &none        &none        &none        &none     &none
+                &none         &none        &none        &none        &none     &none
+                &none         &none        &none        &none        &none 
             >;
         };
     };
