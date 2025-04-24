@@ -6,11 +6,11 @@
     keymap {   
         default_layer {
             bindings = <
-                &kp KP_Q    &kp KP_N1    &kp KP_N2    &kp KP_N3    &kp KP_N4 &kp KP_N5
-                &kp KP_TAB    &kp KP_q     &kp KP_w     &kp KP_e     &kp KP_r  &kp KP_t
-                &kp KP_CAPS   &kp KP_a     &kp KP_s     &kp KP_d     &kp KP_f  &kp KP_g
-                &kp KP_LSHIFT &kp KP_z     &kp KP_x     &kp KP_c     &kp KP_v  &kp KP_b
-                &kp KP_LCTRL  &kp KP_LWIN  &kp KP_LALT  &kp KP_SPACE &mo 1 
+                &kp ESC    &kp N1    &kp N2    &kp N3    &kp N4 &kp N5
+                &kp TAB    &kp q     &kp w     &kp e     &kp r  &kp t
+                &kp CAPS   &kp a     &kp s     &kp d     &kp f  &kp g
+                &kp LSHIFT &kp z     &kp x     &kp c     &kp v  &kp b
+                &kp LCTRL  &kp LWIN  &kp LALT  &kp SPACE &mo 1 
             >
         };
     
