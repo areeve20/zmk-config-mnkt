@@ -11,7 +11,7 @@
                 &kp CAPS   &kp a     &kp s     &kp d     &kp f  &kp g
                 &kp LSHIFT &kp z     &kp x     &kp c     &kp v  &kp b
                 &kp LCTRL  &kp LWIN  &kp LALT  &kp SPACE &mo 1 
-            >
+            >;
         };
     
         bt_layer {
@@ -21,7 +21,7 @@
                 &none         &none        &none        &none        &none     &none
                 &none         &none        &none        &none        &none     &none
                 &none         &none        &none        &none        &none 
-            >
+            >;
         };
     };
 };
