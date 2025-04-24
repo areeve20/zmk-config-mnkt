@@ -11,7 +11,7 @@
                 &kp KP_CAPS   &kp KP_a     &kp KP_s     &kp KP_d     &kp KP_f  &kp KP_g
                 &kp KP_LSHIFT &kp KP_z     &kp KP_x     &kp KP_c     &kp KP_v  &kp KP_b
                 &kp KP_LCTRL  &kp KP_LWIN  &kp KP_LALT  &kp KP_SPACE &mo 1 
-            >;
+            >
         };
     
         bt_layer {
@@ -21,7 +21,7 @@
                 &none         &none        &none        &none        &none     &none
                 &none         &none        &none        &none        &none     &none
                 &none         &none        &none        &none        &none 
-            >;
+            >
         };
     };
 };
