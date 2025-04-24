@@ -1,6 +1,6 @@
 if SHIELD_MNKT
 
 config ZMK_KEYBOARD_NAME
-    default "mnkt"
+    default "MNKT"
 
 endif
